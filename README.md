@@ -1,5 +1,5 @@
-日本語話者のかたには README.ja.md を用意してあります。  
-If you are Japanese speaker, you have README.ja.md for you.
+日本語話者のかたには [README.ja.md](/README.ja.md) を用意してあります。  
+If you are Japanese speaker, you have [README.ja.md](/README.ja.md) for you.
 
 # Arduino Iris Circulator Control
 This is for controling Iris Circulator with Arduino Infrared Remote Controll.  
@@ -25,11 +25,10 @@ Currently working on this
 
 # Source Code
 The sample program send each infrared message by each 2 sec.  
-Please modify it you want.  
-```
-[Sample Code]
-PCF-SDC15T/PCF-SDC15T.ino
-```
+Please change the code what you want.
+  
+[Sample Code] [PCF-SDC15T/PCF-SDC15T.ino](PCF-SDC15T/PCF-SDC15T.ino)
+
 
 ## Appendix
 ### Commands
