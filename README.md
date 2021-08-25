@@ -20,8 +20,8 @@ EC Site(2021): https://www.irisplaza.co.jp/index.php?KB=SHOSAI&SID=H274315F
 _If you need some triggers to control the infrared beams,
 please consider to buy some button components to implmenent it._
 
-# Components Implementation
-Currently working on this
+# Electric Circuit
+![Electric Circuit](./circuit_en.png)
 
 # Source Code
 The sample program send each infrared message by each 2 sec.  
