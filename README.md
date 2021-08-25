@@ -36,11 +36,12 @@ Please change the code what you want.
 |:-----------|------------:|
 |Power on/off|0x017B00FF|
 |Power off Timer (2h/4h/8h)|0x017B30CF|
-|Turn horizontally|0x017B50AF|
+|Turn horizontally (68/90/180)|0x017B50AF|
 |Turn vertically|0x017B708F|
-|Wind weaker|0x017B28D7|
-|Wind stronger|0x017B6897|
+|Weaker|0x017B28D7|
+|Stronger|0x017B6897|
 |Wind mode: drying clothes|0x017B8877|
 |Wind mode: continuously|0x017B906F|
 |Wind mode: naturally |0x017BB04F|
 
+Multiple sending the command will be change the duration or digree for "Power off Timer" or "Turn horizontally" command.
