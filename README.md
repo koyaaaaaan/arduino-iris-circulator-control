@@ -35,7 +35,7 @@ Please change the code what you want.
 |Command Name|NEC 32bit Command|
 |:-----------|------------:|
 |Power on/off|0x017B00FF|
-|Power off|0x017B30CF|
+|Power off Timer (2h/4h/8h)|0x017B30CF|
 |Turn horizontally|0x017B50AF|
 |Turn vertically|0x017B708F|
 |Wind weaker|0x017B28D7|
