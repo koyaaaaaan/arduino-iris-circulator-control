@@ -44,4 +44,4 @@ Please change the code what you want.
 |Wind mode: continuously|0x017B906F|
 |Wind mode: naturally |0x017BB04F|
 
-Multiple sending the command will be change the duration or digree for "Power off Timer" or "Turn horizontally" command.
+Sending multiple command will be change the duration or digree for "Power off Timer" or "Turn horizontally" command.
